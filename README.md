@@ -1,15 +1,18 @@
-# Muhammad Irfan — Social Media Marketing Portfolio
+# Muhammad Irfan — Digital Growth Portfolio
 
-Professional portfolio website for Muhammad Irfan, showcasing social media management, content strategy, campaign management and selected client projects.
+Premium, responsive portfolio website for Muhammad Irfan, featuring social media strategy, content management, client projects, Meta campaign snapshots, professional experience and contact details.
 
-## Live site
+## Live website
 https://muhammadirfan-official105.github.io/portfolio/
 
-## Files
-- `index.html` — portfolio website
-- `assets/` — portfolio images
-- `sitemap.xml` and `robots.txt` — SEO discovery files
-- `.github/workflows/pages.yml` — GitHub Pages deployment workflow
+## Website features
+- Responsive layout for desktop, tablet and mobile
+- Profile image and seven project / campaign visuals
+- Selected work: Vortex AI / Vortex Capital, XAB Club and Rising Star Digital
+- Services, skills, experience, education and contact sections
+- SEO metadata, social sharing metadata and Person structured data
+- Accessible navigation and reduced-motion support
+- No build framework required; deploys as a static GitHub Pages site
 
-## Deploy
-GitHub Pages is configured to deploy the repository using GitHub Actions.
+## Deployment
+GitHub Pages is configured to deploy from the `main` branch using GitHub Actions.
